@@ -1,2 +1,2 @@
 # pet-clinic
-Pruebas con Spring MVC
+Pruebas con Spring MVC 2
